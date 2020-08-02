@@ -14,6 +14,8 @@
 
 **要正常浏览此平安经Online，需要可以访问中文维基百科。**
 
+[在Github-Pages上查看平安经](https://violin9906.github.io/PingAnScripture/#/)
+
 
 
 ## Project setup
